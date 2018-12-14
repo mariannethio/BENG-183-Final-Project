@@ -44,11 +44,19 @@ RNA-seq, or RNA sequencing, is used to reveal the presence and quantity of RNA i
 
 ## References
 [1] Hedenfalk, Ingrid A. “Gene Expression Profiling Can Distinguish Tumor Subclasses of Breast Carcinomas.” Gene Expression Profiling by Microarrays, pp. 132–161., doi:10.1017/cbo9780511545849.008. 
+
 [2] Munoz, Javier, and Razelle Kurzrock. “Targeted Therapy in Rare Cancers—Adopting the Orphans.” Nature Reviews Clinical Oncology, vol. 9, no. 11, Nov. 2012, pp. 631–642., doi:10.1038/nrclinonc.2012.160. 
+
 [3] “Precision Medicine.” National Cancer Institute, www.cancer.gov/about-cancer/treatment/types/precision-medicine. 
+
 [4] “TechNote: What Are the Differences between PCR, RT-PCR, QPCR, and RT-QPCR?” Enzo Life Sciences, 27 July 2018, www.enzolifesciences.com/science-center/technotes/2017/march/what-are-the-differences-between-pcr-rt-pcr-qpcr-and-rt-qpcr?/. 
+
 [5] Toward Precision Medicine: Building a Knowledge Network for Biomedical Research and a New Taxonomy of Disease. National Academies Press, 2011. 
+
 [6] “What Is Pharmacogenomics? - Genetics Home Reference - NIH.” U.S. National Library of Medicine, National Institutes of Health, ghr.nlm.nih.gov/primer/genomicresearch/pharmacogenomics. 
+
 [7] “What Is Precision Medicine? - Genetics Home Reference - NIH.” U.S. National Library of Medicine, National Institutes of Health, ghr.nlm.nih.gov/primer/precisionmedicine/definition. 
+
 [8] “What Is the Difference between Precision Medicine and Personalized Medicine? What about Pharmacogenomics? - Genetics Home Reference - NIH.” U.S. National Library of Medicine, National Institutes of Health, ghr.nlm.nih.gov/primer/precisionmedicine/precisionvspersonalized. 
+
 [9] Xu, Joshua, et al. “Comprehensive Assessments of RNA-Seq by the SEQC Consortium: FDA-Led Efforts Advance Precision Medicine.” MDPI, Multidisciplinary Digital Publishing Institute, 15 Mar. 2016, www.mdpi.com/1999-4923/8/1/8/htm.
